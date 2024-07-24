@@ -1,27 +1,27 @@
-# Hi 👋, i'm Gabriel Meza, welcome.
+# Hola 👋, soy Gabriel Meza, bienvenido.
 
 ![Github](https://user-images.githubusercontent.com/108927775/218274583-dd57d512-241d-466b-89eb-cd5473e4360c.png)
 
-### I have a great passion for programming with all its phases. My long-term goal is to learn all the technologies possible in this world. I am constant in my approach and I like to help those who are starting out. I am committed to reaching my goal of becoming a programming expert. 🚀💻
+### Tengo una gran pasión por la programación en todas sus fases. Mi objetivo a largo plazo es aprender todas las tecnologías posibles en este campo. Soy constante en mi enfoque y me gusta ayudar a quienes están empezando. Estoy comprometido a alcanzar mi objetivo de convertirme en un experto en programación. 🚀💻
   
-## I am currently a frontend trainee with a lot of management skills in design and layout 💻
+## Actualmente soy aprendiz de frontend con muchas habilidades de gestión en diseño y maquetación. 💻
 
-- 🔭 Right now I am working on small projects as a freelancer
-  
-
-- 🌱 I learn React, Tailwind and practice some basic knowledge that I have mastered from PHP and MySQL
+- 🔭 Actualmente estudio y trabajo en pequeños proyectos como freelance.
   
 
-- ❓ You can ask me about frontend technologies that I master.
+- 🌱 Aprendo React, Tailwind y practico mis bases de PHP y MySQL con proyectos personales.
   
 
-- ⚡ A good fact: I really like the neat code and very easy to understand  
+- ❓ Puedes preguntarme sobre las tecnologías que domino.
+  
+
+- ⚡ Un buen hecho: me gusta enfocarme en hacer un código limpio y muy fácil de entender.
   
 
 <br/>  
 
 
-## My Skill Set  
+## Mis habilidades  
 <table><tr><td valign="top" width="33%">
 
 
@@ -53,7 +53,7 @@
 <br/>  
 
 
-## Connect with me  
+## Contáctame  
 <div align="center">
 <a href="https://github.com/Gabotox" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -76,7 +76,7 @@
 <br/>  
 
 
-## Github Stats  
+## Estadísticas de Github
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Gabotox&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
